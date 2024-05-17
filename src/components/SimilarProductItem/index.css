@@ -1,0 +1,104 @@
+/* Write your CSS here */
+.similar-products-head {
+  color: #616e7c;
+  font-size: 35px;
+  margin-left: 12%;
+}
+/* Write your CSS here */
+.success-con {
+  display: flex;
+  justify-content: center;
+}
+.product-image {
+  height: 500px;
+  width: 350px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.title {
+  color: #616e7c;
+  font-size: 35px;
+}
+.price {
+  color: #1e293b;
+  font-size: 20px;
+}
+.rating {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-style: none;
+  color: #ffffff;
+  border-radius: 10px;
+  width: 100px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.star-img {
+  height: 20px;
+  width: 20px;
+  margin-right: 3px;
+}
+.flex-con {
+  display: flex;
+}
+.reviews {
+  margin-left: 10px;
+  font-size: 18px;
+}
+.right-con {
+  width: 45%;
+}
+.description {
+  text-align: left;
+  color: #616e7c;
+  font-size: 20px;
+}
+.available-text {
+  color: #171f46;
+  font-size: 20px;
+  font-weight: bold;
+}
+.span-text {
+  text-align: left;
+  color: #616e7c;
+  font-size: 20px;
+  font-weight: 400;
+}
+.icon {
+  color: #616e7c;
+  height: 20px;
+  width: 20px;
+}
+.set-quantity-con {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100px;
+  align-items: center;
+}
+.dummy-button {
+  background-color: #ffffff;
+  border-style: none;
+  color: #ffffff;
+  height: 50px;
+}
+.add-to-cart-button {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  border-style: none;
+}
+.similar-products-con {
+  padding: 50px;
+}
+.similar-image {
+  height: 250px;
+  width: 250px;
+}
+.f-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
